@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php include 'header.php';?>
+    <p>Laita tekstiä tähän</p>
+    <?php include 'footer.php';?>
 </body>
 </html>
